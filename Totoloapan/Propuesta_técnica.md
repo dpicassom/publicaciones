@@ -1,3 +1,5 @@
+Publicaciones © 2024 by Daniel Picasso Muñoz is licensed under CC BY-NC-SA 4.0 
+
 Empezando de arriba hacia abajo, como cae el agua:
 
 # Componente de productividad eficiente ejidal
@@ -221,3 +223,4 @@ A partir de esto, talleres como de pastoreo holístico planificado, agricultura 
 
 Adicionalmente, se recomienda como mecanismo de integración, planificar y vender al costo de producción verduras del invernadero y hortalizas a los habitantes urbanos y también ejidales
 
+ Publicaciones © 2024 by Daniel Picasso Muñoz is licensed under CC BY-NC-SA 4.0 

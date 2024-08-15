@@ -33,19 +33,19 @@ Naturalmente, los mismos organismos del suelo (conocidos en conjunto como edafó
 - el amortiguamiento de la gota que se precipita a la superficie, previniendo la compactación de la capa superficial del suelo, lo que merma el primer punto de esta lista
 
 
-![Izquierda - agregados en el suelo ; Derecha ilustración de agregados | crédito: Maureen Sundberg - https://www.ecolandscaping.org](ageagado.jpg "Izquierda - agregados en el suelo ; Derecha ilustración de agregados | crédito: Maureen Sundberg - https://www.ecolandscaping.org")
+![Izquierda - agregados en el suelo ; Derecha ilustración de agregados | crédito: Maureen Sundberg - https://www.ecolandscaping.org](ageagado.jpg "Izquierda - agregados en el suelo ; Derecha ilustración de agregados | crédito: Maureen Sundberg - https://www.ecolandscaping.org") **Izquierda - agregados en el suelo ; Derecha ilustración de agregados | crédito: Maureen Sundberg - https://www.ecolandscaping.org**
  
 
-![Suelo que tiene estrctura agregada, pero perdió su cobertura y le impacta de forma directa la gota de lluvia, compactandolo en la superficie previniendo la infiltración, produciendo escorrentía superficial que erosiona auún más suelo](suelo_compactado_lluvia.png "Suelo que tiene estrctura agregada, pero perdió su cobertura y le impacta de forma directa la gota de lluvia, compactandolo en la superficie previniendo la infiltración, produciendo escorrentía superficial que erosiona aún más suelo -cercanía al paraje el agüita-")
+![Suelo que tiene estrctura agregada, pero perdió su cobertura y le impacta de forma directa la gota de lluvia, compactandolo en la superficie previniendo la infiltración, produciendo escorrentía superficial que erosiona auún más suelo](suelo_compactado_lluvia.png "Suelo que tiene estrctura agregada, pero perdió su cobertura y le impacta de forma directa la gota de lluvia, compactandolo en la superficie previniendo la infiltración, produciendo escorrentía superficial que erosiona aún más suelo -cercanía al paraje el agüita-") **Suelo que tiene estrctura agregada, pero perdió su cobertura y le impacta de forma directa la gota de lluvia, compactandolo en la superficie previniendo la infiltración, produciendo escorrentía superficial que erosiona auún más suelo**
 
 Este mismo efecto de *agregar* el suelo tiene pegamentos que lo mantienen estable y más resistente a la presión de la superficie. Empero, cuando se remueve el suelo mediante el arado, año tras año tras año, se agota la materia orgánica y esta agragación y pegamentos ya no funcionan, queda el suelo pulverizado, como para hacer ladrillos.
 
 
-![Prueba de desleimiento: izquierda -  suelo en recuperación sin arar con manejo regenerativo -apenas se desmorona un poco- ; derecha - suelo arado año con año de forma convencional -se desmorona y colapsa completamente-  | crédito: Maureen Sundberg - https://www.ecolandscaping.org](prueba_desleimiento.jpg "Prueba de desleimiento: izquierda -  suelo en recuperación sin arar con manejo regenerativo -apenas se desmorona un poco- ; derecha - suelo arado año con año de forma convencional -se desmorona y colapsa completamente-  | crédito: Maureen Sundberg - https://www.ecolandscaping.org")
+![Prueba de desleimiento: izquierda -  suelo en recuperación sin arar con manejo regenerativo -apenas se desmorona un poco- ; derecha - suelo arado año con año de forma convencional -se desmorona y colapsa completamente-  | crédito: Maureen Sundberg - https://www.ecolandscaping.org](prueba_desleimiento.jpg "Prueba de desleimiento: izquierda -  suelo en recuperación sin arar con manejo regenerativo -apenas se desmorona un poco- ; derecha - suelo arado año con año de forma convencional -se desmorona y colapsa completamente-  | crédito: Maureen Sundberg - https://www.ecolandscaping.org") **Prueba de desleimiento: izquierda -  suelo en recuperación sin arar con manejo regenerativo -apenas se desmorona un poco- ; derecha - suelo arado año con año de forma convencional -se desmorona y colapsa completamente-  | crédito: Maureen Sundberg - https://www.ecolandscaping.org**
 
 Es por ello que para maximizar la captura de agua hay que tener el suelo cubierto, con plantas (raíces y microorganismos asociados) y/o reastrojo/acolche, para amortiguar la caída de la gota. De esta forma se maximiza el aprovechamiento de agua.
 
-![Arvenses sobre el lomo amortiguan la caída de la gota, mejorando la captación de agua al centímetro cuadrado. Podría ser aún mayor si tuviera rastrojo como acolche. El fondo del surco tiene menor cobertura y está relativamente desprotegido. Milpa en la cercanía de el paraje el agüita](arvenses_milpa.png "Arvenses sobre el lomo amortiguan la caída de la gota, mejorando la captación de agua al centímetro cuadrado. Podría ser aún mayor si tuviera rastrojo como acolche. El fondo del surco tiene menor cobertura y está relativamente desprotegido. Milpa en la cercanía de el paraje el agüita")
+![Arvenses sobre el lomo amortiguan la caída de la gota, mejorando la captación de agua al centímetro cuadrado. Podría ser aún mayor si tuviera rastrojo como acolche. El fondo del surco tiene menor cobertura y está relativamente desprotegido. Milpa en la cercanía de el paraje el agüita](arvenses_milpa.png "Arvenses sobre el lomo amortiguan la caída de la gota, mejorando la captación de agua al centímetro cuadrado. Podría ser aún mayor si tuviera rastrojo como acolche. El fondo del surco tiene menor cobertura y está relativamente desprotegido. Milpa en la cercanía de el paraje el agüita") **Arvenses sobre el lomo amortiguan la caída de la gota, mejorando la captación de agua al centímetro cuadrado. Podría ser aún mayor si tuviera rastrojo como acolche. El fondo del surco tiene menor cobertura y está relativamente desprotegido. Milpa en la cercanía de el paraje el agüita**
 
 Otro beneficio de que el suelo sea como una esponja es que este libera poco a poco el agua (también mejora el drenaje, previniendo el anegamiento), contribuyendo a sobrellevar el cambio climático (lluvias mas fuertes pero mas cortas) y alargando el tiempo que duran las corrientes intermitentes.
 
@@ -54,14 +54,14 @@ Otro beneficio de que el suelo sea como una esponja es que este libera poco a po
 
 ![Milpa en pendiente muy pronunciada en el paraje el agüita](IMG_20240804_101104.jpg)
 
-![Milpa en pendiente muy pronunciada en el paraje el agüita](milpa_2.png)
+![Milpa en pendiente muy pronunciada en el paraje el agüita](milpa_2.png) **Milpa en pendiente muy pronunciada en el paraje el agüita**
 
 
 Generalmente se considera que la agricultura es en ladera cuando la pendiente del terreno es de 8% o superior. Estos terrenos tienen un mayor riesgo de erosión del suelo si este se mantiene descubierto o se perturba, por ejemplo, ejerciendo el arado.
 
 Una gran proporción (alrededor del 40%) de la agricultura campesina se realiza en parcelas con estas características. El uso de prácticas convencionales conlleva a una pérdida de suelo y agua no deseable, hasta risgosa, empero, es en estas mismas parcelas donde tiende a preservarse mayor diversidad de los cultivos y de las arvenses, donde ha llegado menos la tecnificación y el uso de agroquímicos.
 
-![Milpa en pendiente pronunciada. Nótese el contraste entre el lado derecho -suelo de bosque cubierto con acolche de hoja- y el lado izquierdo, arado, colapsado, saturado (drenaje mejorable) de la reciente lluvia. cercanías del paraje el agüita ](milpa.png "Milpa con un muy alto grado de pendiente en las cercanías del paraje 'el agüita'")
+![Milpa en pendiente pronunciada. Nótese el contraste entre el lado derecho -suelo de bosque cubierto con acolche de hoja- y el lado izquierdo, arado, colapsado, saturado (drenaje mejorable) de la reciente lluvia. cercanías del paraje el agüita ](milpa.png "Milpa con un muy alto grado de pendiente en las cercanías del paraje 'el agüita'") **Milpa en pendiente pronunciada. Nótese el contraste entre el lado derecho -suelo de bosque cubierto con acolche de hoja- y el lado izquierdo, arado, colapsado, saturado (drenaje mejorable) de la reciente lluvia. cercanías del paraje el agüita**
 
 Es entonces que surge la necesidad de desarrollar y socializar estrategias que permitan conciliar la productividad (por necesidad) y la consercación del suelo y agua. Esta línea de investigación tiene aún mucho por desarrollarse, sin embargo, hay que recordar que lo más recomendable, desde una persectiva ecológica, que omite el componente social, es no realizar agricultura en estas pendientes y minimizar el tráfico que por ellas pasa. Más adelante se explicarán estrategias para esta *feralización* de parcelas en pendiente.
 
@@ -84,7 +84,7 @@ El sistema consiste en tener bandas de 2 o 3 metros de ancho en el mismo sentido
 En pendientes muy empinadas apenas habría unos surcos entre las bandas de árboles, por lo que no es viable en pendientes muy pronunciadas.
 
 
-![Ilustración conceptual del sistema MIAF. Nótese que esa pendiente esta exagerada. Crédito Programa Sembrando Vida - Gobierno de México ](MIAF.jpg "Ilustración conceptual del sistema MIAF. Nótese que esa pendiente esta exagerada. Crédito Programa Sembrando Vida - Gobierno de México ")
+![Ilustración conceptual del sistema MIAF. Nótese que esa pendiente esta exagerada. Crédito Programa Sembrando Vida - Gobierno de México ](MIAF.jpg "Ilustración conceptual del sistema MIAF. Nótese que esa pendiente esta exagerada. Crédito Programa Sembrando Vida - Gobierno de México ") **Ilustración conceptual del sistema MIAF. Nótese que esa pendiente esta exagerada. Crédito Programa Sembrando Vida - Gobierno de México**
 
 
 En el caso de realizarse en pendiente, entre los frutales y perennes anteriormente mencionados, se trasplantan de forma muy cercana plantas que rebrotan tras la poda, con el objetivo de crear una barrera que detenga o realentice las escorrentías y los sedimentos que arrastre. Las podas se colocan en la cercanía del pié de las plantas, hacia arriba de la pendiente. En el raro caso de que sobraran rastrojos (más de una pulgada de profundidad) aquí también se ponen.
@@ -92,7 +92,7 @@ En el caso de realizarse en pendiente, entre los frutales y perennes anteriormen
 Conforme los árboles van creciendo, las plantas para poda se les restringe más y más hasta que no se recuperan.
 
 
-![Izquierda - (1) zurcos a contrapendiente | Derecha - MIAF en pendiente. Nótese (3)  la pila de podas y rastrojos sobrantes cercano al pié de los (2) árboles, hacia arriba de la pendiente. Nótese también que la pendiente es relativamente moderada. Crédito Cortés, Turrent, et. al. COLPOS https://www.colpos.mx/wb_pdf/Transparencia/cde/2021/cde_diciembre2021.pdf](MIAF_COLPOS.png "Izquierda - zurcos a contrapendiente | Derecha - MIAF en pendiente. Nótese la pila de podas y rastrojos cercano al pié de los árboles, hacia arriba de la pendiente. Crédito COLPOS https://www.colpos.mx/wb_pdf/Transparencia/cde/2021/cde_diciembre2021.pdf")
+![Izquierda - (1) zurcos a contrapendiente | Derecha - MIAF en pendiente. Nótese (3)  la pila de podas y rastrojos sobrantes cercano al pié de los (2) árboles, hacia arriba de la pendiente. Nótese también que la pendiente es relativamente moderada. Crédito Cortés, Turrent, et. al. COLPOS https://www.colpos.mx/wb_pdf/Transparencia/cde/2021/cde_diciembre2021.pdf](MIAF_COLPOS.png "Izquierda - zurcos a contrapendiente | Derecha - MIAF en pendiente. Nótese la pila de podas y rastrojos cercano al pié de los árboles, hacia arriba de la pendiente. Crédito COLPOS https://www.colpos.mx/wb_pdf/Transparencia/cde/2021/cde_diciembre2021.pdf") **Izquierda - (1) zurcos a contrapendiente | Derecha - MIAF en pendiente. Nótese (3)  la pila de podas y rastrojos sobrantes cercano al pié de los (2) árboles, hacia arriba de la pendiente. Nótese también que la pendiente es relativamente moderada. Crédito Cortés, Turrent, et. al. COLPOS https://www.colpos.mx/wb_pdf/Transparencia/cde/2021/cde_diciembre2021.pdf**
 
 # Propuestas por experimentarse
 
@@ -102,7 +102,7 @@ Como se menciono anteriormente, el desarrollo de estrategias que concilien produ
 
 Una alternativa al MIAF en pendientes más pronunciadas o estrechas (con pocos surcos). En lugar a banadas de dos o tres metros, el ancho es el mismo que un lomo con maíz, en lugar de árboles frutales, se utilizan árboles nativos de rápido y lento crecimiento, que toleren la poda severa y tengan rebrotes. Se trasplantan muy cercanamente formando la barrera, se mantienen podados a un metro de altura (para permitir la luz al maíz.) y con una densidad de una rama viva vertical por cada 10 - 20 cm.
 
-![Suelo clareado en una pendiente muy pronunciada, presenta gran vulnerabilidad a la erosión. Parcela en las cercanías al paraje el agüita.](IMG_20240804_093931.jpg "a title")
+![Suelo clareado en una pendiente muy pronunciada, presenta gran vulnerabilidad a la erosión. Parcela en las cercanías al paraje el agüita.](IMG_20240804_093931.jpg "a title") **Suelo clareado en una pendiente muy pronunciada, presenta gran vulnerabilidad a la erosión. Parcela en las cercanías al paraje el agüita**
 
 Hacia arriba en la pendiente se siembran herbáceas perennes como dalias silvestres, salvias, etc. o arbustillos (ej. perlita), como capa adicional y redundante.
 
@@ -112,9 +112,9 @@ Este seto proporciona, además de retención de suelo y agua, hábitat para poli
 
 Adicionalmente, el usar árboles de rápido (ej, aile, tepozan) y lento crecimiento, como encino, que es ectomicorrícico, permite también el aprovechamiento de hongos comstibles del tipo ectomicorrícico, y de las podas del tipo saprótrofo.
 
-![Tepozán podado casi a a rás de tierra con reborte vigoroso cerca de una milpa en el paraje el agüita. De todos esos rebrotes Se tendría que seleccionar solo un, dos o hasta tres rebrotes; los más fuertes.](tepozan.png "Tepozán podado casi a a ras de tierra con reborte vigoroso cerca de una milpa en el paraje el agüita. De todos esos rebrotes Se tendría que seleccionar solo un, dos o hasta tres rebrotes; los más fuertes.")
+![Tepozán podado casi a a rás de tierra con reborte vigoroso cerca de una milpa en el paraje el agüita. De todos esos rebrotes Se tendría que seleccionar solo un, dos o hasta tres rebrotes; los más fuertes.](tepozan.png "Tepozán podado casi a a ras de tierra con reborte vigoroso cerca de una milpa en el paraje el agüita. De todos esos rebrotes Se tendría que seleccionar solo un, dos o hasta tres rebrotes; los más fuertes.") **Tepozán podado casi a a rás de tierra con reborte vigoroso cerca de una milpa en el paraje el agüita. De todos esos rebrotes Se tendría que seleccionar solo un, dos o hasta tres rebrotes; los más fuertes.**
 
-![Sistema MIS - Milpa Intercalada con Seto | En pendeintes pronunciadas y en parcelas estrechas no hay espacio para los árboles frutales; Se utiliza un seto muy estrecho y denso con plantas leñosas que toleran poda severa y rebortan. Se complementa con perennes herbáceas como dalia silvestre y salvias nativas. Las podas se amontonan cerca del pié del seto, se inocula con hongos comestibles. Si hay espacio se complementa con enredaderas como chayoye o vid. Se mantiene a 1 m de alto. El sistema requiere de manejo intensivo en forma de poda. | A - vista lateral ; B - vista frontal. ](MIS_ma.png)
+![Sistema MIS - Milpa Intercalada con Seto | En pendeintes pronunciadas y en parcelas estrechas no hay espacio para los árboles frutales; Se utiliza un seto muy estrecho y denso con plantas leñosas que toleran poda severa y rebortan. Se complementa con perennes herbáceas como dalia silvestre y salvias nativas. Las podas se amontonan cerca del pié del seto, se inocula con hongos comestibles. Si hay espacio se complementa con enredaderas como chayoye o vid. Se mantiene a 1 m de alto. El sistema requiere de manejo intensivo en forma de poda. | A - vista lateral ; B - vista frontal. ](MIS_ma.png) **Sistema MIS - Milpa Intercalada con Seto | En pendeintes pronunciadas y en parcelas estrechas no hay espacio para los árboles frutales; Se utiliza un seto muy estrecho y denso con plantas leñosas que toleran poda severa y rebortan. Se complementa con perennes herbáceas como dalia silvestre y salvias nativas. Las podas se amontonan cerca del pié del seto, se inocula con hongos comestibles. Si hay espacio se complementa con enredaderas como chayoye o vid. Se mantiene a 1 m de alto. El sistema requiere de manejo intensivo en forma de poda. | A - vista lateral ; B - vista frontal**
 
 [Abrir imágen en grande](MIS_ma.png)
 
@@ -206,9 +206,6 @@ De forma preliminar, puede intentarse con el centeno y el ebo, sembrando en cult
 ---imagen de tractor con roller crimper y crimpeado manual
 
 
-
-
-
 #### Cultivo comercial en temporada fría
 
 De forma alternativa, en la temporada cálida se siembra uno o una mezcla de cultivos de cobertura como girasol, sorgo, cempasúchil, avena, etc. para mejorar el suelo, y llegado septiembre-octubre se les da término, se acaman, y se siembra el cultivo principal de invierno, como brassicaceas, trigo, cebada, etc.
@@ -218,7 +215,7 @@ De forma alternativa, en la temporada cálida se siembra uno o una mezcla de cul
 Otra alternativa es rotar de forma silumtánea el cultivo principal con el de cobertura, asignándole una superficie a cada uno. Eso implica que esa parte de la parcela que se alterne con cultivos de cobertura no producira bienes, por lo que se ocupa estar muy atento a los puntos críticos de influencia de los cultivos con foliares para maximizar su productividad. A cambio, los cultivos de cobertura mejoraran el suelo par el cultivo principal el proximo año, dejando materia orgánica y micrrorganismos prestos para cuando llege el cultivo principal.
 
 
-![Rotación de cultivos en un sistema de cero labranza. A - párcela entera sembrada con ebo y centeno durante la temporada fría | B - ebo y centeno solo enlos pasillos para revertir la compactación por tráfico | C - Rotación de filas maíz+ frijol con haba | D - Rotación simultánea en temporada de lluvia maíz + frijol con mezcla de cultivo de cobertura girasol, avena, nabo forrajero, frijol caupí](rotacion_ma.png "Rotación de cultivos")
+![Rotación de cultivos en un sistema de cero labranza. A - párcela entera sembrada con ebo y centeno durante la temporada fría | B - ebo y centeno solo enlos pasillos para revertir la compactación por tráfico | C - Rotación de filas maíz+ frijol con haba | D - Rotación simultánea en temporada de lluvia maíz + frijol con mezcla de cultivo de cobertura girasol, avena, nabo forrajero, frijol caupí](rotacion_ma.png "Rotación de cultivos") **Rotación de cultivos en un sistema de cero labranza. A - párcela entera sembrada con ebo y centeno durante la temporada fría | B - ebo y centeno solo enlos pasillos para revertir la compactación por tráfico | C - Rotación de filas maíz+ frijol con haba | D - Rotación simultánea en temporada de lluvia maíz + frijol con mezcla de cultivo de cobertura girasol, avena, nabo forrajero, frijol caupí**
 
 
 
@@ -263,18 +260,18 @@ Durante el diálogo de retroalimentación se mencionó que la idea principal era
 
 En estos claros donde se encuentra el suelo desnudo o incluso hay cobertura de hojarasca, generalmente ya tenían  una estructra de suelo agregada por lo que el trasplante entraría en condiciones ideles de suelo. Donde este no es este el caso, lo ideal, en cuanto a disponibilidad de horas-persona para el seguimiento de cada trasplante, es seguir el proceso de la sucesión ecológica, en el que las arvenses voluntarias o cultivos de cobertura van construyendo la estructura agregada y función del suelo, incrementando la predominancia fúngica entre los microorganismos del suelo.
 
-![Sucesión ecológica: tras una perturbación como un incendio, desmonte o arado, las plantas pioneras o arvenses ocupan el espacio, mejorando el suelo dando lugar a arbustos y árboles pioneros, para finalmente llegar a la comunidad climax del ecosistema. Crédito geeksforgeeks.org](SecondarySuccesion.png)
+![Sucesión ecológica: tras una perturbación como un incendio, desmonte o arado, las plantas pioneras o arvenses ocupan el espacio, mejorando el suelo dando lugar a arbustos y árboles pioneros, para finalmente llegar a la comunidad climax del ecosistema. Crédito geeksforgeeks.org](SecondarySuccesion.png) **Sucesión ecológica: tras una perturbación como un incendio, desmonte o arado, las plantas pioneras o arvenses ocupan el espacio, mejorando el suelo dando lugar a arbustos y árboles pioneros, para finalmente llegar a la comunidad climax del ecosistema. Crédito geeksforgeeks.org**
 
 
-![Parcela de avena en ladera, al fondo, una porción de la parcela fue abandonada, donde se empieza a dar el proceso de sucesión secundaria, lleno de plantas herbáceas, arbustivas y leñosas nativas que ocuparon el espacio. Atrás de estas, el bosque de encino maduro. Cercanías al paraje el agüita.](grano_pequeño.png "a title")
+![Parcela de avena en ladera, al fondo, una porción de la parcela fue abandonada, donde se empieza a dar el proceso de sucesión secundaria, lleno de plantas herbáceas, arbustivas y leñosas nativas que ocuparon el espacio. Atrás de estas, el bosque de encino maduro. Cercanías al paraje el agüita.](grano_pequeño.png "a title") **Parcela de avena en ladera, al fondo, una porción de la parcela fue abandonada, donde se empieza a dar el proceso de sucesión secundaria, lleno de plantas herbáceas, arbustivas y leñosas nativas que ocuparon el espacio. Atrás de estas, el bosque de encino maduro. Cercanías al paraje el agüita.**
 
 [Abrir la imágen en grande](grano_pequeño.png)
 
-![arbolito de encino que salió soilito, desde semilla, rodeado de plantas nativas espontáneas. Para mejorar su crecimiento y deempeño se puede gestionar el crecimiento de las plantas circundantes. Cercanía al paraje el agüita.](encino.jpg)
+![arbolito de encino que salió soilito, desde semilla, rodeado de plantas nativas espontáneas. Para mejorar su crecimiento y deempeño se puede gestionar el crecimiento de las plantas circundantes. Cercanía al paraje el agüita.](encino.jpg) **[arbolito de encino que salió soilito, desde semilla, rodeado de plantas nativas espontáneas. Para mejorar su crecimiento y deempeño se puede gestionar el crecimiento de las plantas circundantes. Cercanía al paraje el agüita**
 
 ## Senderos
 
-![Sendero vertical erosionado](IMG_20240804_115615_HDR.jpg)
+![Sendero vertical erosionado](IMG_20240804_115615_HDR.jpg) **Sendero vertical erosionado**
 
 Dentro del componente forestal que el autor tuvo oportunidad de vistar dentro de y alrededor del paraje el agüita, las superficie que no era funcional en términos de suelo e hidrológico fueron los senderos, como en todos lados. 
 
@@ -282,8 +279,8 @@ Estos se dan por el tráfico contínuo que previene el crecimiento de plantas, l
 
 La estrategia que se propone a continuación es para prevenir que suceda este fenómeno, y consiste en redirigir los senderos para que no vayan en dirección de la pendiente, e incluso poner dos senderos paralelos para alternar el uso de uno y otro cada año, utilizando cultivos de cobertura en el que no se usa para prevenir la erosión y mejorar el suelo.
 
-![En lugar de hacer los senderos a favor de la pendiente, se hacen en contrapendiente, reduciedo la pendiente efectiva dentro del sendero.](senderos_dispo.png)
+![En lugar de hacer los senderos a favor de la pendiente, se hacen en contrapendiente, reduciedo la pendiente efectiva dentro del sendero.](senderos_dispo.png) **En lugar de hacer los senderos a favor de la pendiente, se hacen en contrapendiente, reduciedo la pendiente efectiva dentro del sendero.**
 
-![Senderos gemelos. Se usa uno de ellos un año mientras que el otro sendero se protege con cultivos de cobertura. El siguiente año se alternan y se deja el acolche como capa de protección extra.](SENDEROS_GEMELOS_1.png)
+![Senderos gemelos. Se usa uno de ellos un año mientras que el otro sendero se protege con cultivos de cobertura. El siguiente año se alternan y se deja el acolche como capa de protección extra.](SENDEROS_GEMELOS_1.png) **Senderos gemelos. Se usa uno de ellos un año mientras que el otro sendero se protege con cultivos de cobertura. El siguiente año se alternan y se deja el acolche como capa de protección extra.**
 
-![Alt text](SENDEROS_GEMELOS_2.png)
+![](SENDEROS_GEMELOS_2.png)

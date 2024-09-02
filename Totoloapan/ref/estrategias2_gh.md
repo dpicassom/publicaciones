@@ -5,6 +5,9 @@ author: Daniel Picasso Muñoz
 linestretch: '1.7'
 title: Propuesta de estrategias para la conservación de suelo y agua en el paraje el agüita, ejido San Nicolás Totoloapan, CDMX
 ---
+
+Publicaciones © 2024 by Daniel Picasso Muñoz is licensed under CC BY-NC-SA 4.0
+
 Actualizado 2 de septiembre 2024 
 Realizado trás la visita y actividad en el paraje el agüita.
 
@@ -333,3 +336,5 @@ La estrategia que se propone a continuación es para prevenir que suceda este fe
 ![Propuesta de adaptación de calzado para reducir la presión sobre el suelo análogo a las 'raquetas para nieve'. Placas sobre las que descansa el calzado. Debajo de las placas, arena compartementalizada seguida de zuela para tracción.](boot.png) **Propuesta de adaptación de calzado para reducir la presión sobre el suelo análogo a las 'raquetas para nieve'. Placas sobre las que descansa el calzado. Debajo de las placas, arena compartementalizada seguida de zuela para tracción.**
 
 ![Sendero vertical con una porción de erosión contralada con escalones de llantas rellenas de tierra, al lado, un camino en direción vertical con erosión intensa en progreso. Paraje el Aguita.](agapandos.jpg) **Sendero vertical con una porción de erosión contralada con escalones de llantas rellenas de tierra, al lado, un camino en direción vertical con erosión intensa en progreso. Paraje el Aguita.**
+
+Publicaciones © 2024 by Daniel Picasso Muñoz is licensed under CC BY-NC-SA 4.0
